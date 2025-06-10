@@ -1,1 +1,1 @@
-# jardimapp
+# Jardim app - o aplicativo do jardineiro
