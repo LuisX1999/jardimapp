@@ -9,5 +9,4 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/JavaScript.svg" alt="Logo JS" width="40px">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/SQLite.svg" alt="Logo Sqlite" width="40px">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Git.svg" alt="Logo Git" width="40px" >
-
 </div>
