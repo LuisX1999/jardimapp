@@ -1,6 +1,6 @@
 # Jardim app - o aplicativo do jardineiro
 
-<div style="display: flex; gap: 10px; align-items: center;">
+<div style="display: flex; gap: 15px; align-items: center;">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Python-Dark.svg" alt="Logo Python" width="40px" >
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Django.svg" alt="Logo Django" width="40px" >
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/HTML.svg" alt="Logo HTML" width="40px">
