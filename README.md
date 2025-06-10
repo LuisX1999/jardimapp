@@ -1,4 +1,4 @@
-# Jardim app - o aplicativo do jardineiro
+# Jardim app - O aplicativo do jardineiro
 
  <img src="imgs/logo.png" alt="logo" width=70% height=60%>
 <div style="display: flex; gap: 15px; align-items: center;">
